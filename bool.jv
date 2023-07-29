@@ -1,0 +1,4 @@
+videoMessages.visible = true; (bool : functionUpdate);
+var bool:new Function -- UpdatedBoolFunction;
+startVideo();
+//--Copyright to Whatsapp LLC
