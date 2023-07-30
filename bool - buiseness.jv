@@ -1,0 +1,9 @@
+videoMessages.visible = true; (bool : newFunctionBool);
+variant new bool:new UpdatedFunction -- UpdatedBoolFunction;
+javascript.model load Model "Buiseness";
+javascript.version set 1.0.0Buiseness;
+javascript.start "WhatsappBuiseness" + "TechLauncher";
+javascript.add Bool && "FunctionBool" && "UpdatedFunction" && "UpdatedBoolFunction";
+javascript.startVideo();
+//--Copyright to Whatsapp LLC
+//--Copyright to TechDevGames
